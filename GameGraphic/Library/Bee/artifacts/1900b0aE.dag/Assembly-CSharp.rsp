@@ -353,6 +353,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/02Script/BuildingAlpha.cs"
 "Assets/02Script/G_09_01_File.cs"
 "Assets/02Script/G_09_02_Material.cs"
 "Assets/02Script/G_09_02_Monster.cs"
@@ -365,6 +366,8 @@
 "Assets/02Script/G_09_08_Lamda.cs"
 "Assets/02Script/G_09_15_AlphaBlendingP.cs"
 "Assets/02Script/G_09_15_PropertyValue.cs"
+"Assets/02Script/G_09_20_GPUInstancing.cs"
+"Assets/02Script/G_09_20_GPUInstancing_P.cs"
 "Assets/02Script/G_09_21_EffectEquip.cs"
 "Assets/8K Skybox Pack Free/Example Scenes/Script/RotateCamera.cs"
 -langversion:9.0

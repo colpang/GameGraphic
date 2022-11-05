@@ -38,7 +38,7 @@ Shader "Custom/G_0915_BumpmapShader"
             // Albedo comes from a texture tinted by color
             fixed4 c = tex2D (_MainTex, IN.uv_MainTex) * _Color;
             //노멀맵 연동을 위한 노멀데이터 반환 함수
-            //UnpackNormal 사용
+            //UnpackNormal 사용 
             fixed3 n = UnpackNormal(tex2D(_BumpTex, IN.uv_BumpTex));
             o.Albedo = c.rgb;
             o.Normal = n;

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/01Scenes/G_0908_Lamda.unity
+- path: Assets/01Scenes/G_0913_ShaderBasic.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
